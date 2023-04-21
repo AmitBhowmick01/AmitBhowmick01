@@ -1,3 +1,4 @@
+![logo](https://github.com/AmitBhowmick01/AmitBhowmick01/blob/main/Data_Science.jpeg)
 <h1 align="center">Hi 👋, I'm Amit Kumar Bhowmick</h1>
 <h3 align="center">A Passionate Data Science Aspirant.</h3>
 
