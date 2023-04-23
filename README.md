@@ -1,4 +1,4 @@
-![logo](https://github.com/AmitBhowmick01/AmitBhowmick01/blob/main/Data_Science.jpeg)
+![logo](https://www.audi.com/content/dam/gbp2/career/experienced-professionals/2020/it-at-audi/1920x600-desktop-career-header-btm.jpg?imwidth=1920&imdensity=1)
 <h1 align="center">Hi 👋, I'm Amit Kumar Bhowmick</h1>
 <h3 align="center">A Passionate Data Science Aspirant.</h3>
 
